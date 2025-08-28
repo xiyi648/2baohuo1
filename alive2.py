@@ -5,7 +5,7 @@ import time
 TARGETS = [
     "https://qklm.xyz",       # 项目1
     "https://wyb.qklm.xyz",   # 项目2
-    "https://1baohuo2.onrender.com"  # 服务A的Render域名（后续替换）
+    "https://onebaohuo2.onrender.com"  # 服务A的Render域名（后续替换）
 ]
 
 while True:

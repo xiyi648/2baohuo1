@@ -37,4 +37,4 @@ if __name__ == "__main__":
     
     # 监听Render分配的端口（必须！否则Web Service会报错）
     port = int(os.environ.get('PORT', 5000))  # 优先用环境变量PORT，默认5000
-    app.run(host='0.0.0.0', port=port
+    app.run(host='0.0.0.0', port=port)
